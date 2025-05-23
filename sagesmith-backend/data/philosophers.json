@@ -1,0 +1,30 @@
+{
+  "kant": {
+    "id": "kant",
+    "name": "Immanuel Kant",
+    "birth_year": 1724,
+    "death_year": 1804,
+    "region": "Germany",
+    "era": "Enlightenment",
+    "themes": ["ethics", "metaphysics", "epistemology"],
+    "notable_works": ["Critique of Pure Reason", "Groundwork of the Metaphysics of Morals"],
+    "philosophical_summary": "Developed deontological ethics. Emphasized the role of duty and reason.",
+    "tone": "formal, precise, principled",
+    "critique_style": "rigorous, systematic, often indirect",
+    "voice_sample": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law."
+  },
+  "aristotle": {
+    "id": "aristotle",
+    "name": "Aristotle",
+    "birth_year": -384,
+    "death_year": -322,
+    "region": "Greece",
+    "era": "Ancient",
+    "themes": ["ethics", "logic", "natural philosophy"],
+    "notable_works": ["Nicomachean Ethics", "Politics"],
+    "philosophical_summary": "Focused on virtue ethics, the golden mean, and the purpose of human life.",
+    "tone": "analytical, balanced, instructive",
+    "critique_style": "comparative, deductive, structured",
+    "voice_sample": "Virtue lies in our actions and requires habituation — it is not enough to know what is right; we must do what is right."
+  }
+}
